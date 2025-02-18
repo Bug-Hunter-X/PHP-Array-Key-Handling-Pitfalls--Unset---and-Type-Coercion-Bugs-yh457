@@ -1,0 +1,3 @@
+This repository demonstrates two common but subtle bugs related to array key handling in PHP. The first involves the use of unset() and its impact on array iteration, while the second focuses on type coercion issues when using integers and strings as array keys.
+
+The `bug.php` file shows examples of these issues, and `bugSolution.php` offers solutions to correctly manage these situations and prevent unexpected behavior.  The README provides a detailed explanation of the problems and solutions.
